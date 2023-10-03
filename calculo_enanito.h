@@ -8,7 +8,7 @@
 
 /*
 Pre: -
-Post: Se le harán preguntas al usuario y en base a sus respuestas se le asignará un enanito. El
+Post: Se le harholaxdán preguntas al usuario y en base a sus respuestas se le asignará un enanito. El
 enanito asignado será devuelto por referencia en el parámetro inicial_enanito que va a contenr
 su inicial.
 - G: Gruñón
